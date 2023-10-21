@@ -1,0 +1,6 @@
+BuildIOS/
+BuildIOS_BurstDebugInformation_DoNotShip/
+Library/
+Logs/
+obj/
+Temp/
